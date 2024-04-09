@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Morillo</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 
+- 🌱 I’m currently learning **JavaScript, TypeScript and CSS**
+  
 - 💬 Ask me about **C++, JavaScript, TypeScript and CSS**
 
 - 📫 How to reach me **ajmc330@gmail.com**
